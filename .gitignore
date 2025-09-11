@@ -1,0 +1,5 @@
+bd.sql
+password.txt
+*.log
+node_folder/
+!important.log
