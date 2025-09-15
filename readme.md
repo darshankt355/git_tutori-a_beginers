@@ -1,6 +1,6 @@
 # The github repo out there 
 
-this his readme
+This is readme
 The best ways are:
 -Eat 
 -Sleep
